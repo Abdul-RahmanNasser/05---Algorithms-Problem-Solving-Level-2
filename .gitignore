@@ -1,0 +1,24 @@
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.db
+*.sdf
+*.vcxproj.user
+*.vcxproj.filters
+
+# Build directories and files
+Debug/
+Release/
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.idb
+*.lib
+*.obj
+
+# Temporary files
+*.log
+*.bak
+*.swp
